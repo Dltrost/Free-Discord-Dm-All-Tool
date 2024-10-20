@@ -27,3 +27,11 @@ Easily use our tool on discord to **DM ALL** the servers you want, easily and qu
 
 ### Results
 ![image](https://github.com/user-attachments/assets/4c53066a-2871-413c-84fb-c2e33ca36be2)
+
+### Discord Server
+> Here : https://discord.gg/FQqcuezAus
+> Need help ? Add me on discord : dltrost_
+
+### Credits
+All code, including the bot's embed design and avatar images, was exclusively created by @dltrost. Please do not copy or replicate any part of the bot’s embeds or design.
+© Dltrost. All rights reserved. October 2024.
