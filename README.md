@@ -1,20 +1,40 @@
 # Free-Discord-Dm-All-Tool
 Easily use our tool on discord to **DM ALL** the servers you want, easily and quickly.  
 
-### Features
-- Leave the server after Dm All
-- Invisible Bot
-- Send the message to all server channels
-- Random Bot name
-- Random Bot Avatar
-- Multiple Bot for one Dm All
+**Dm All** - Sends a personalized message to all members of a server where your bot is present.
+**Dm All Friends** - Sends a personalized message to all open dms in which you have sent a message, including your friends, blocked, friend request, etc...
 
-### Abilities
+# Dm All
+### Features ( Dm All Server )
+- [x] Leave the server after Dm All
+- [x] Invisible Bot
+- [x] Send the message to all server channels
+- [x] Random Bot name
+- [x] Random Bot Avatar
+- [x] Multiple Bot for one Dm All
+- [x] Only with Bot Token
+
+### Abilities ( Dm All Server )
 - Send 1 Dm/second
 - Return errors
 - 500 dm per Bot
 - Install up to 4 bot by Dm All
 
+# Dm All Friends
+### Features ( Dm All Friends )
+- [x] Personalized message
+- [x] Send the message to all open dm channels
+- [x] User Token
+- [x] Anti Ban
+- [x] Captcha Solver included
+- [x] Free trial
+
+### Abilities ( Dm All Friends )
+- Send 1 Dm/second
+- Return errors
+- Unlimited Dm
+
+# Dm All
 ### The tool
 ![image](https://github.com/user-attachments/assets/79efdb62-0f84-4d45-91ad-6d63d2f2fd49)
 ![image](https://github.com/user-attachments/assets/c7dba5d4-1a39-4104-962a-762d03245a06)
